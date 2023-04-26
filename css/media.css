@@ -1,0 +1,26 @@
+@media (max-width: 620px){
+  .header{
+    min-height: unset;
+  }
+
+  .header__title {
+    font-size: 30px;
+  }
+
+  .header__title strong{
+    font-size: 40px;
+  }
+
+  /* Section */
+
+  .section{
+    padding: 40px 0;
+    
+   }
+
+   .title-1{
+    font-size: 40px;
+    border-bottom: 30px;
+   }
+   
+}
