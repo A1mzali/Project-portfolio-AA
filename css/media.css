@@ -11,6 +11,18 @@
     font-size: 40px;
   }
 
+  /* Nav row */
+  .nav__row{
+    justify-content: space-between;
+  }
+
+
+  /* Button */
+
+  .dark-mode-btn{
+    order: 0;
+  }
+
   /* Section */
 
   .section{
