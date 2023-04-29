@@ -30,6 +30,7 @@
  
    border: 1px solid #000;
    color: #000;
+   background-color: var(--white);
  
    display: flex;
    column-gap: 10px;
